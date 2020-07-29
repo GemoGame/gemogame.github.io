@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+#GemoGame
 
 Template Name: Mamba
 Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
